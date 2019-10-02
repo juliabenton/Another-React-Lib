@@ -52,7 +52,7 @@ https://github.com/NehemiahK/Another-React-Lib/tree/master/docs
 
 As the name of the library suggests, it's simply another React library.  
 So then what's the motivation, you may ask. Well, when I saw Hacktoberfest 2019 was around the corner, 
-I was looking at what I could contribute to this year. For me I find it daunting to find a repository where I can contribute  
+I was looking at what I could contribute to this year. For me, I find it daunting to find a repository where I can contribute  
 at my own level. The projects I had encountered were either too basic or way too advanced. 
 
 I wanted to create a repository that people from beginner to advanced could contribute in a meaningful way. (Myself included obviously)
