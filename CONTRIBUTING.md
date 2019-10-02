@@ -66,7 +66,7 @@ The files are now staged, you can save the changes in the git history using the 
 
 `git commit -m "Commit message"`
 
-Now you are ready to push these changes to the remote repository, to do so all you need to do is to run the following command :
+Now, you are ready to push these changes to the remote repository, to do so all you need to do is to run the following command :
 
 `git push --set-upstream origin feature-branch`
 
